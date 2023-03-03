@@ -12,9 +12,6 @@
 
 #1. Using the Iris dataset, train models to solve the following: KNN, Random Forest Classifier, SVM classifier, and a logistic regression classifier
 
-
-
-
 #Import modules
 from sklearn.datasets import load_iris
 from sklearn.neighbors import KNeighborsClassifier
