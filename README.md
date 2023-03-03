@@ -9,7 +9,8 @@ As we can see there are 4 endpoints, one for each model and it allows us to pass
 
 ![image](https://user-images.githubusercontent.com/86193960/222765508-de84180c-f288-4020-ae17-d98035a56806.png)
 
- #Or we could do the 4 models in one endpoint like this
+ # Or we could do the 4 models in one endpoint like this
+ 
 ![image](https://user-images.githubusercontent.com/86193960/222823009-d2a9b1e4-923c-44ec-abaa-811d231e048b.png)
 
 ## The output will be like that
